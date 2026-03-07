@@ -10,7 +10,7 @@ public class CheckedExceptionMain {
 
         @Override
         public void run() /*throws Exception*/{
-            //throw new Exception();
+            //throw new Exception(); // 주석 풀면 예외 발생
         }
     }
 }
