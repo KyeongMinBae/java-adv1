@@ -4,7 +4,7 @@ import java.util.concurrent.atomic.AtomicInteger;
 
 import static util.MyLogger.log;
 
-public class CasMain2 {
+public class CasMainV2 {
 
     public static void main(String[] args) {
         AtomicInteger atomicInteger = new AtomicInteger();
