@@ -2,6 +2,8 @@ package thread.collection.simple.list;
 
 import java.util.Arrays;
 
+import static util.ThreadUtils.sleep;
+
 public class BasicList implements SimpleList{
 
     private static final int DEFAULT_CAPACITY = 5;
