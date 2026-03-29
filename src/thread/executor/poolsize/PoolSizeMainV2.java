@@ -8,7 +8,7 @@ import java.util.concurrent.Executors;
 import static thread.executor.ExecutorUtils.printState;
 import static util.MyLogger.log;
 
-public class PollSizeMainV2 {
+public class PoolSizeMainV2 {
 
     public static void main(String[] args) {
         ExecutorService es = Executors.newFixedThreadPool(2);
